@@ -59,6 +59,6 @@ These are *starters*. They're useful as templates, as teaching material, and as 
 
 ## 👋 About
 
-Saman Fatima — Kaggle Legacy Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
+Saman Fatima — Kaggle Grandmaster, data scientist from Pakistan. More work on [Kaggle](https://www.kaggle.com/samanfatima7) · [LinkedIn](https://www.linkedin.com/in/saman-fatima-datascience/).
 
 ⭐ if you found something useful — and reach out if you're doing serious quant work, I'd love to chat.
